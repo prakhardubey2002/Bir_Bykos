@@ -644,6 +644,7 @@ body {}
     justify-content: center;
     align-items: center;
     margin: 1rem 0;
+    
 }
 
 .body .qualitycard h2 {
@@ -651,6 +652,7 @@ body {}
     /* margin: 1rem; */
     /* color: #017dc4; */
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+   
     font-size: 2rem;
 }
 
@@ -659,6 +661,7 @@ body {}
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    
     /* margin: 1rem; */
 }
 
@@ -680,6 +683,7 @@ body {}
     background-color: var(--Secondary);
     color: #fff;
     transition: 0.4s all ease-in-out;
+    /* border: 1px solid black; */
 }
 
 .body .qualitycard .cardscontainer .qcard:hover {
@@ -779,7 +783,7 @@ body {}
     height: 200%; 
 } */
 .body .qualitycard .cardscontainer .qcard h2 {
-    color: #ffffff;
+    color: #000000;
     /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); */
     font-size: 1.4rem;
 }
